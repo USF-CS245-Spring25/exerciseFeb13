@@ -100,7 +100,8 @@ public class BinaryTree {
         if (root == null)
             return 0;
 
-        return 1 + numNodes(root.left) + numNodes(root.right);
+        // FILL IN CODE
+        return 0;
     }
 
 
